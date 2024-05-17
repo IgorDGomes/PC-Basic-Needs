@@ -14,7 +14,7 @@ Basic Commands for your Computer, hopefully with an easy to understand interface
 
 1. Clean Recycle Bin
 
-2. Backup  |  <sapn style="color: orange">This functionality was temporarily taken off</span>
+2. Backup  |  <span style="color: orange">This functionality was temporarily taken off</span>
 
 3. Scan Local Disk
 
